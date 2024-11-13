@@ -1,0 +1,7 @@
+#Thu Oct 31 21:08:09 CDT 2024
+Depth_of_Field=true
+Godrays=true
+Lens_Flares=true
+Moonlight=0.0
+morningFog=true
+nMap=1
